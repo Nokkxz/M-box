@@ -12,5 +12,5 @@ Prototype designed in the Da-Vinci Summer Camp.
 - The medicine plan and the record of medicine taking collected by the server box can be send to the phone and uploaded to the cloud server we rent and built so that the information can be share with family members(available before 2020/8/13).
 
 
-#### Others
+### Others
 Slides for presentation: M-BOX.pdf
